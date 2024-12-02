@@ -48,11 +48,36 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+![WhatsApp Image 2024-12-02 at 20 37 20_85c3c464](https://github.com/user-attachments/assets/6557a803-22c4-48c3-8e38-08ad240d7fad)
+![WhatsApp Image 2024-12-02 at 20 37 20_4a4c4539](https://github.com/user-attachments/assets/fc421366-511a-4b05-b41b-c21395a68dfa)
 
 **Output Timing Waveform**
+![WhatsApp Image 2024-12-02 at 20 37 21_8c0bad2d](https://github.com/user-attachments/assets/0610e819-2a67-47c8-89f4-fdc3864fba87)
+![WhatsApp Image 2024-12-02 at 20 37 21_273172a3](https://github.com/user-attachments/assets/480abfaf-ef5b-46fe-b458-5b66db6fb6a2)
 
 **Result:**
-
+A Full Adder-Subtractor is a digital circuit that performs both addition and subtraction for three single-bit binary inputs: 
+𝐴
+A, 
+𝐵
+B, and 
+𝐶
+𝑖
+𝑛
+C 
+in
+​
+  (carry/borrow input). The mode selector 
+𝑀
+M determines whether the circuit performs addition (
+𝑀
+=
+0
+M=0) or subtraction (
+𝑀
+=
+1
+M=1).
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
 
